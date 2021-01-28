@@ -2,8 +2,8 @@
 
 Projeto em Python para requisitar fotos aleatórias de animais via Requests.
 
-[![Python 3](https://pyup.io/repos/github/victoraugusto6/fotos_aleatorias_animais/python-3-shield.svg)](https://pyup.io/repos/github/victoraugusto6/fotos_aleatorias_animais/)
-[![Updates](https://pyup.io/repos/github/victoraugusto6/fotos_aleatorias_animais/shield.svg)](https://pyup.io/repos/github/victoraugusto6/fotos_aleatorias_animais/)
+[![Python 3](https://pyup.io/repos/github/victoraugusto6/fotos-request-aleatorias-animais/python-3-shield.svg)](https://pyup.io/repos/github/victoraugusto6/fotos-request-aleatorias-animais/)
+[![Updates](https://pyup.io/repos/github/victoraugusto6/fotos-request-aleatorias-animais/shield.svg)](https://pyup.io/repos/github/victoraugusto6/fotos-request-aleatorias-animais/)
 
 Suportada versão Python3
 
